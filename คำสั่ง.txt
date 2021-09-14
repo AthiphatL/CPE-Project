@@ -1,6 +1,0 @@
-flexDirecton: 'row' //แกนหลัก x y
-justifyContent: 'flex-end' //จัด content ในแกนหลัก y บนล่าง 
-alignItems: ' flex-end' // จัด content ในแกนรอง x ซ้ายขวา
-flexWrap: ' nowrap'  ตัดแถว
-
-alignSelf:' ' แก้ในบรรทัด view
