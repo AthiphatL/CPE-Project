@@ -1,4 +1,5 @@
 # CPE-Project
+<<<<<<< HEAD
  61024246 ธิณกร อุบลจินดา
 <p>61012139 อธิภัทร เหลือชั่ง</p>
 
@@ -6,3 +7,7 @@
 Model(คราวๆ)
 <img src="photo/Screenshot 2021-09-14 164525.png" >
 <img src="photo/Screenshot 2021-09-14 164547.png" >
+=======
+Version Test 
+อันนี้เอาไว้สำหรับโค้ดแบบไม่สมบูรณ์ 
+>>>>>>> dev
