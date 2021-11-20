@@ -1,5 +1,5 @@
 # CPE-Project
-<p>>Hardware</p>
+<p>Hardware</p>
 <p>61012139 อธิภัทร เหลือชั่ง</p>
 
 
