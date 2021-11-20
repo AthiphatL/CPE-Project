@@ -29,9 +29,9 @@
 <img src="Tools/Screenshot 2021-11-20 163629.png" >
 
 <p>รูปประกอบ HARDWARE</p>
-  <img src="photo/1" >
-  <img src="photo/2" >
-  <img src="photo/3" >
-  <img src="photo/4" >
-  <img src="photo/5" >
-  <img src="photo/6" >
+  <img src="photo/1.jpg" >
+  <img src="photo/2.JPG" >
+  <img src="photo/3.JPG" >
+  <img src="photo/4.JPG" >
+  <img src="photo/5.JPG" >
+  <img src="photo/6.JPG" >
