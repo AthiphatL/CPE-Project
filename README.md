@@ -4,7 +4,7 @@
 
 
 <p>อุปกรณ์</p>
-<p>1.T22</p>
+<p>1.DHT22</p>
 <img src="Tools/DHT22.jpg" >
 
 <p>2.LCD</p>
