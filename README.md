@@ -9,6 +9,7 @@
 <p>61012139 อธิภัทร เหลือชั่ง</p>
 
 
+<<<<<<< HEAD
 <p>อุปกรณ์</p>
 <p>1.DHT22</p>
 <img src="Tools/DHT22.jpg" >
@@ -42,3 +43,5 @@
   <img src="photo/5.JPG" >
   <img src="photo/6.JPG" >
 >>>>>>> Hardware
+=======
+>>>>>>> App
