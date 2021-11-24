@@ -5,7 +5,7 @@
 
 <p>อุปกรณ์</p>
 <p>1.DHT22</p>
-<img src="Tools/DHT22.jpg" width=“10” height=“10” >
+<img src="Tools/DHT22.jpg" height=“10” width=“10” >
 
 <p>2.LCD</p>
 <img src="Tools/LCD.jpg" >
