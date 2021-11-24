@@ -20,3 +20,7 @@
 <h4>Table User</h4>
 <h4>เก็บค่า ID(เช็คแก้ไขและเรียกดึงข้อมูลเป็นชุดตามID) fistname(ชื่อจริง) lastname(นามสกุล) username(ตั้งชื่อ) password(ตั้งรหัส) </h4>
 <h4>email(อีเมล์) phone(เบอร์โทร)</h4>
+
+<h1>Node Red</h1>
+<img src="Software(backend) Photo/Node_red.PNG" >
+<h4>ใช้ฟังชันส่งค่าแยกไปตามตารางในMySQL</h4>
