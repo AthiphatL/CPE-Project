@@ -5,3 +5,11 @@
 
 <h1>API</h1>
 <img src="Software(backend) Photo/API.PNG" >
+<h4>user = เก็บค่าข้อมูลการสมัครและเอาไปแสดงค่าแบบเรียกใช้ ID</h4></br>
+<h4>history = นำค่าอุณภูมิ ความชื้นและเวลามาแสดงทุกๆ3ชั่วโมง</h4></br>
+<h4>weight = นำน้ำหนักและเวลามาแสดง</h4></br>
+
+<h1>MySQL</h1>
+<img src="Software(backend) Photo/MySQL_TEMP.PNG" >
+<h4>Table Temp</h4>
+<h4>เก็บค่า temp(อุณภูมิ) humi()</h4>
