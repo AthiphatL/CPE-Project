@@ -1,4 +1,5 @@
 # CPE-Project
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <p>61012139 อธิภัทร เหลือชั่ง</p> <p>Hardware (Arduino,Embeded)</p>
@@ -6,6 +7,9 @@
 <p> 61024246 ธิณกร อุบลจินดา</p> <p>Application Design(React-native)</p>
 
 =======
+=======
+<<<<<<< .merge_file_a22228
+>>>>>>> Hardware
 <p>Hardware</p>
 <p>61012139 อธิภัทร เหลือชั่ง</p>
 
@@ -68,6 +72,7 @@
   <img src="photo/4.JPG" >
   <img src="photo/5.JPG" >
   <img src="photo/6.JPG" >
+<<<<<<< HEAD
 
 =======
 >>>>>>> App
@@ -97,3 +102,6 @@
 <img src="Software(backend) Photo/Node_red.PNG" >
 <h4>ใช้ฟังชันส่งค่าแยกไปตามตารางในMySQL</h4>
 >>>>>>> Software
+=======
+=======
+>>>>>>> Hardware
