@@ -1,5 +1,6 @@
 # CPE-Project
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <p>61012139 อธิภัทร เหลือชั่ง</p> <p>Hardware (Arduino,Embeded)</p>
@@ -57,6 +58,12 @@
 =======
 <p>SOFTWARE</p>
 <p>61024304 จักริน แหลมจันทึก</p>
+=======
+
+<p>Application Design(React-native)</p>
+<p> 61024246 ธิณกร อุบลจินดา</p>
+
+>>>>>>> App
 
 <h1>API</h1>
 <img src="Software(backend) Photo/API.PNG" >
