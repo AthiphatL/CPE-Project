@@ -12,4 +12,4 @@
 <h1>MySQL</h1>
 <img src="Software(backend) Photo/MySQL_TEMP.PNG" >
 <h4>Table Temp</h4>
-<h4>เก็บค่า temp(อุณภูมิ) humi()</h4>
+<h4>เก็บค่า ID(เช็คแก้ไขและเรียกดึงข้อมูลเป็นชุดตามID)temp(อุณภูมิ) humi(ความชื้น) Time(เวลา) </h4>
