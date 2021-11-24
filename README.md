@@ -1,8 +1,5 @@
 # CPE-Project
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 <p>61012139 อธิภัทร เหลือชั่ง</p> <p>Hardware (Arduino,Embeded)</p>
 <p>61024304 จักริน แหลมจันทึก</p> <p>Software (Node-red, API, PHP,SQL)</p>
 <p> 61024246 ธิณกร อุบลจินดา</p> <p>Application Design(React-native)</p>
@@ -86,7 +83,4 @@
 <h1>Node Red</h1>
 <img src="Software(backend) Photo/Node_red.PNG" >
 <h4>ใช้ฟังชันส่งค่าแยกไปตามตารางในMySQL</h4>
->>>>>>> Software
-=======
-=======
->>>>>>> Hardware
+
