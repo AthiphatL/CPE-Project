@@ -52,10 +52,7 @@
 
 =======
 >>>>>>> App
-=======
-<p>SOFTWARE</p>
-<p>61024304 จักริน แหลมจันทึก</p>
-=======
+
 
 <p>Application Design(React-native)</p>
 <p> 61024246 ธิณกร อุบลจินดา</p>
@@ -77,10 +74,11 @@
 <img src="photo/dashboard.PNG" >
 หน้า history จะแสดงค่า temp ,humid, time ทุกๆ3ชม.
 <img src="photo/history.PNG" >
+=======
 
-
-
->>>>>>> App
+=======
+<p>SOFTWARE</p>
+<p>61024304 จักริน แหลมจันทึก</p>
 
 <h1>API</h1>
 <img src="Software(backend) Photo/API.PNG" >
@@ -107,5 +105,5 @@
 <h1>Node Red</h1>
 <img src="Software(backend) Photo/Node_red.PNG" >
 <h4>ใช้ฟังชันส่งค่าแยกไปตามตารางในMySQL</h4>
-
+=======
 
