@@ -14,7 +14,7 @@ export function Regis2({ navigation }) {
     const getsignup = async () => {
 
         if (password == '') {
-            return alert('Please write your password.')
+            return alert('Please Enter your password.')
         }
         else {
             var myHeaders = new Headers();
@@ -23,21 +23,21 @@ export function Regis2({ navigation }) {
 
             var raw = JSON.stringify(
                 {
-                    "username": username,
-                    "password": password,
                     "firstname": firstname,
                     "lastname": lastname,
-                    "phone": phone,
+                    "username": username,
+                    "password": password,
                     "email": email,
-                
+                    "phone": phone,
                 }
             )
             var requestOptions = {
                 method: 'POST',
                 headers: myHeaders,
+                body: raw,
                 redirect: 'follow'
             };
-            const response = await fetch(`http://http://203.154.82.235/users `, requestOptions)
+            const response = await fetch(`http://203.154.82.235/users `, requestOptions)
             const result = await response.json();
             console.log(result)
 
@@ -47,48 +47,48 @@ export function Regis2({ navigation }) {
             else {
                 Alert.alert('สมัครสมาชิก สำเร็จ');
             }
-            
+
         }
-        
+
     }
 
     return (
-        <View style={{backgroundColor:'#FF9BC0'}}>
+        <View style={{ backgroundColor: '#FF9BC0' }}>
 
             <Text style={styles.textheader}> Register </Text>
 
             <View style={styles.Container}>
-                <Text style={styles.text}> Username :</Text>
+                <Text style={styles.text}> Username </Text>
                 <TextInput
                     style={styles.input}
                     onChangeText={setusername}
                     value={username}
-                    placeholder='Enter Username'
+                    placeholder='Username'
                 />
 
-                <Text style={styles.text}> Password : </Text>
+                <Text style={styles.text}> Password </Text>
                 <TextInput
                     style={styles.input}
                     onChangeText={setpassword}
                     value={password}
                     keyboardType='number-pad'
-                    placeholder='Enter Password'
+                    placeholder='Password'
                 />
 
-                <Text style={styles.text}> Firstname : </Text>
+                <Text style={styles.text}> Firstname </Text>
                 <TextInput
                     style={styles.input}
                     onChangeText={setfirstname}
                     value={firstname}
-                    placeholder='Enter firstname'
+                    placeholder='Firstname'
                 />
 
-                <Text style={styles.text}> Lastname : </Text>
+                <Text style={styles.text}> Lastname </Text>
                 <TextInput
                     style={styles.input}
                     onChangeText={setlastname}
                     value={lastname}
-                    placeholder='Enter lastname'
+                    placeholder='lastname'
                 />
 
                 <Text style={styles.text}> Email : </Text>
@@ -97,7 +97,7 @@ export function Regis2({ navigation }) {
                     onChangeText={setemail}
                     value={email}
                     keyboardType='email-address'
-                    placeholder='Enter Email'
+                    placeholder='Email'
                 />
 
                 <Text style={styles.text}> Phone number : </Text>
@@ -106,7 +106,7 @@ export function Regis2({ navigation }) {
                     onChangeText={setphone}
                     value={phone}
                     keyboardType='numeric'
-                    placeholder='Enter Phone number'
+                    placeholder='Phone number'
                 />
 
             </View>
@@ -120,7 +120,7 @@ export function Regis2({ navigation }) {
                 </TouchableOpacity>
             </View>
 
-            </View>
+        </View>
     )
 }
 
@@ -157,8 +157,8 @@ const styles = StyleSheet.create({
     },
     input: {
         alignSelf: 'stretch',
-        borderBottomWidth: 1,
-        borderBottomColor: '#000',
+        // borderBottomWidth: 1,
+        // borderBottomColor: '#000',
         top: -20,
         marginTop: -5,
         marginBottom: 15
